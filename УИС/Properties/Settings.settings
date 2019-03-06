@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="УИС.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="ForeColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="Back" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">180, 180, 180</Value>
+    </Setting>
+    <Setting Name="Button" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Gray</Value>
+    </Setting>
+    <Setting Name="theme" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">service.mdb</Value>
+    </Setting>
+    <Setting Name="providers" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Microsoft.Ace.OLEDB.12.0|Microsoft.Jet.OLEDB.4.0</Value>
+    </Setting>
+    <Setting Name="curProvider" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="AdminPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="UserPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

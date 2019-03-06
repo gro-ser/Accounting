@@ -1,0 +1,13 @@
+---tab---
+S:save
+D:description
+R:reload
+F:find
+---workForm---
+T:tables
+G:views
+E:export
+---and---
+F1:help
+F5:update
+

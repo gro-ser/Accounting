@@ -1,0 +1,60 @@
+D:\ИССЦ\ИССЦ\bin\Debug\ИССЦ.exe
+D:\ИССЦ\ИССЦ\bin\Debug\ИССЦ.pdb
+D:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Properties.Resources.resources
+D:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.csproj.GenerateResource.Cache
+D:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.exe
+D:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.pdb
+H:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.exe
+H:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.pdb
+H:\ИССЦ\ИССЦ\bin\Debug\ИССЦ.exe
+H:\ИССЦ\ИССЦ\bin\Debug\ИССЦ.pdb
+H:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Properties.Resources.resources
+H:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.csproj.GenerateResource.Cache
+H:\ИССЦ\ИССЦ\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+H:\ИССЦ\ИССЦ\bin\Debug\ru\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+H:\ИССЦ\ИССЦ\bin\Debug\ИССЦ.exe.config
+D:\ИССЦ\ИССЦ\bin\Debug\ИССЦ.exe.config
+D:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.csprojResolveAssemblyReference.cache
+E:\ИССЦ\ИССЦ\bin\Debug\ИССЦ.exe.config
+E:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.exe
+E:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.pdb
+E:\ИССЦ\ИССЦ\bin\Debug\ИССЦ.exe
+E:\ИССЦ\ИССЦ\bin\Debug\ИССЦ.pdb
+E:\ИССЦ\ИССЦ\bin\Debug\ru\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+E:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.csprojResolveAssemblyReference.cache
+E:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Loadder.resources
+E:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Info.resources
+E:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Properties.Resources.resources
+E:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.ThemeSelect.resources
+E:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Working.resources
+E:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.csproj.GenerateResource.Cache
+H:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Help.resources
+H:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Loadder.resources
+H:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Info.resources
+H:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.ThemeSelect.resources
+H:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Working.resources
+H:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.csprojResolveAssemblyReference.cache
+H:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Print.resources
+D:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Help.resources
+D:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Loadder.resources
+D:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Info.resources
+D:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Print.resources
+D:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.ThemeSelect.resources
+D:\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Working.resources
+D:\ИССЦ\ИССЦ\bin\Debug\ru\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+H:\учебная практика\ИССЦ\ИССЦ\bin\Debug\ИССЦ.exe.config
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.exe
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.pdb
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.csprojResolveAssemblyReference.cache
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Help.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Loadder.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Info.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Print.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Properties.Resources.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.ThemeSelect.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.Forms.Working.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Debug\ИССЦ.csproj.GenerateResource.Cache
+H:\учебная практика\ИССЦ\ИССЦ\bin\Debug\ИССЦ.exe
+H:\учебная практика\ИССЦ\ИССЦ\bin\Debug\ИССЦ.pdb
+H:\учебная практика\ИССЦ\ИССЦ\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+H:\учебная практика\ИССЦ\ИССЦ\bin\Debug\ru\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll

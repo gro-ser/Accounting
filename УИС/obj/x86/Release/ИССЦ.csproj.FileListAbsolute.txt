@@ -1,0 +1,76 @@
+D:\ИССЦ\ИССЦ\bin\Release\ИССЦ.exe.config
+D:\ИССЦ\ИССЦ\bin\Release\ИССЦ.exe
+D:\ИССЦ\ИССЦ\bin\Release\ИССЦ.pdb
+D:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Help.resources
+D:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Loadder.resources
+D:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Info.resources
+D:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Print.resources
+D:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Properties.Resources.resources
+D:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.ThemeSelect.resources
+D:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Working.resources
+D:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.csproj.GenerateResource.Cache
+D:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.exe
+D:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.pdb
+H:\ИССЦ\ИССЦ\bin\Release\ИССЦ.exe.config
+H:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.exe
+H:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.pdb
+H:\ИССЦ\ИССЦ\bin\Release\ИССЦ.exe
+H:\ИССЦ\ИССЦ\bin\Release\ИССЦ.pdb
+H:\ИССЦ\ИССЦ\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+H:\ИССЦ\ИССЦ\bin\Release\ru\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+H:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Help.resources
+H:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Loadder.resources
+H:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Info.resources
+H:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Print.resources
+H:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Properties.Resources.resources
+H:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.ThemeSelect.resources
+H:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Working.resources
+H:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.csproj.GenerateResource.Cache
+H:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.csprojResolveAssemblyReference.cache
+E:\ИССЦ\ИССЦ\bin\Release\ИССЦ.exe.config
+E:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.exe
+E:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.pdb
+E:\ИССЦ\ИССЦ\bin\Release\ИССЦ.exe
+E:\ИССЦ\ИССЦ\bin\Release\ИССЦ.pdb
+E:\ИССЦ\ИССЦ\bin\Release\ru\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+E:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.csprojResolveAssemblyReference.cache
+E:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Help.resources
+E:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Loadder.resources
+E:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Print.resources
+E:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Properties.Resources.resources
+E:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.ThemeSelect.resources
+E:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Working.resources
+E:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.csproj.GenerateResource.Cache
+E:\учебная практика\ИССЦ\ИССЦ\bin\Release\ИССЦ.exe.config
+E:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.exe
+E:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.pdb
+E:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.csprojResolveAssemblyReference.cache
+E:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Help.resources
+E:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Loadder.resources
+E:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Info.resources
+E:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Print.resources
+E:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Properties.Resources.resources
+E:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.ThemeSelect.resources
+E:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Working.resources
+E:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.csproj.GenerateResource.Cache
+H:\учебная практика\ИССЦ\ИССЦ\bin\Release\ИССЦ.exe.config
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.exe
+H:\учебная практика\ИССЦ\ИССЦ\bin\Release\ИССЦ.exe
+H:\учебная практика\ИССЦ\ИССЦ\bin\Release\ИССЦ.pdb
+H:\учебная практика\ИССЦ\ИССЦ\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+H:\учебная практика\ИССЦ\ИССЦ\bin\Release\ru\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.csprojResolveAssemblyReference.cache
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Help.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Loadder.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Info.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Print.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Properties.Resources.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.ThemeSelect.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Working.resources
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.csproj.GenerateResource.Cache
+H:\учебная практика\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.pdb
+E:\учебная практика\ИССЦ\ИССЦ\bin\Release\ИССЦ.exe
+E:\учебная практика\ИССЦ\ИССЦ\bin\Release\ИССЦ.pdb
+E:\учебная практика\ИССЦ\ИССЦ\bin\Release\ru\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+E:\ИССЦ\ИССЦ\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\ИССЦ\ИССЦ\obj\x86\Release\ИССЦ.Forms.Settings.resources

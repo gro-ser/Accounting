@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EB75ECF4-133B-4539-AB0A-0E8B8D059929}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>УИС</RootNamespace>
+    <AssemblyName>УИС</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>УИС.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>E:\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Components\DataTableView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\DataTableView.Designer.cs">
+      <DependentUpon>DataTableView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\TabFormControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DBControl.cs" />
+    <Compile Include="Exporter.cs" />
+    <Compile Include="Forms\AdminSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminSettings.Designer.cs">
+      <DependentUpon>AdminSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ConnectSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ConnectSettings.Designer.cs">
+      <DependentUpon>ConnectSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Diagram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Diagram.Designer.cs">
+      <DependentUpon>Diagram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ExportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ExportForm.Designer.cs">
+      <DependentUpon>ExportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ImageSelector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ImageSelector.Designer.cs">
+      <DependentUpon>ImageSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Print.Designer.cs">
+      <DependentUpon>Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ThemeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ConnectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ConnectForm.Designer.cs">
+      <DependentUpon>ConnectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Loadder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Loadder.Designer.cs">
+      <DependentUpon>Loadder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MyDbConnections.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Theme.cs" />
+    <Compile Include="Forms\ThemeSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ThemeSelect.Designer.cs">
+      <DependentUpon>ThemeSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Working.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Working.Designer.cs">
+      <DependentUpon>Working.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Components\DataTableView.resx">
+      <DependentUpon>DataTableView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminSettings.resx">
+      <DependentUpon>AdminSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ConnectSettings.resx">
+      <DependentUpon>ConnectSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Diagram.resx">
+      <DependentUpon>Diagram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ExportForm.resx">
+      <DependentUpon>ExportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ImageSelector.resx">
+      <DependentUpon>ImageSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Print.resx">
+      <DependentUpon>Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ThemeForm.resx">
+      <DependentUpon>ThemeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ConnectForm.resx">
+      <DependentUpon>ConnectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Loadder.resx">
+      <DependentUpon>Loadder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Help.resx">
+      <DependentUpon>Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forms\ThemeSelect.resx">
+      <DependentUpon>ThemeSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Working.resx">
+      <DependentUpon>Working.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\info.rtf.gz" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль Microsoft .NET Framework 4 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
